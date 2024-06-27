@@ -86,3 +86,6 @@ print("Enter your favourite color : ", terminator: "")
 var color = readLine()
 
 print("Your favourite color is \(color!)")
+
+
+// These are my excercise to practice input and output in swift
